@@ -2,10 +2,11 @@
 from this paper of google brain,[RECURRENT NEURAL NETWORK REGULARIZATION](https://arxiv.org/abs/1409.2329)
 
 ##### There are 3 supported model configurations:
-##### | config | epochs | train | valid  | test
-##### | small  | 13     | 37.99 | 121.39 | 115.91
-##### | medium | 39     | 48.45 |  86.16 |  82.07
-##### | large  | 55     | 37.87 |  82.62 |  78.29
+| config | epochs | train | valid  | test   |
+|--------|--------|-------|--------|--------|
+| small  |   13   | 37.99 | 121.39 | 115.91 |
+| medium |   39   | 48.45 |  86.16 |  82.07 |
+| large  |   55   | 37.87 |  82.62 |  78.29 |
 
 
 ### train-small
